@@ -34,7 +34,15 @@ Challenge 4
 <br><br>
 There is a file named access.log in the current directory. Print the contents.
 <br><br>
+
+```
+cat access.log
+```
+<br>
+
 Challenge 5
+<br><br>
+Print the last 5 lines of "access.log".
 <br><br>
 
 ```

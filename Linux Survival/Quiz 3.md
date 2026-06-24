@@ -1,4 +1,5 @@
-## Quiz 3
+## Linux Survival
+### Quiz 3
 Which command is used to:
 <br><br>
 

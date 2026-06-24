@@ -10,5 +10,5 @@ Which:
 | 4) command tells a process to die gracefully?	| kill |
 | 5) option to the above command tells a process to die immediately?	| -9 |
 | 6) command finds words in text?	| grep |
-| 7) symbol sends output to another program? | || |	
+| 7) symbol sends output to another program? | \\| |	
 | 8) 'cp' and 'rm' option acts on trees? | -r |

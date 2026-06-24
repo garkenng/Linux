@@ -1,7 +1,9 @@
 ## Linux Survival 
 ### Quiz 4
+<br><br>
 
-
+| Question | Answer |
+| ---- | ---- | 
 Which:
 1) command shows free disk space?	
 2) command shows process status?	

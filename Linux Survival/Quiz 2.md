@@ -8,7 +8,7 @@ Which command is used to:
 | 3) List the groups you are in? |	 |
 | 4) Remove empty directories?	| |
 | 5) Change file permissions?	| |
-| ---- | ---- | 	
+|  |  | 	
 | 1) Which wildcard represents all files?	| |
 |2) Which letter represents all other users?	| |
 | 3) Which letter represents execute permission? | |

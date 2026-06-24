@@ -98,10 +98,39 @@ Create a symbolic link named take-the-command-challenge that points to the file 
 <br><br>
 
 ```
+ln -s tmp/files/take-the-command-challenge take-the-command-challenge 
 ```
 <br>
 
 Challenge 11
+<br><br>
+Delete all of the files in this challenge directory including all subdirectories and their contents.
+<br><br>
+
+```
+rm -rf .* *
+```
+<br>
+
+Challenge 12
+<br><br>
+There are files in this challenge with different file extensions. Remove all files with the .doc extension recursively in the current working directory.<br><br>
+
+```
+
+```
+<br>
+
+Challenge 13
+<br><br>
+<br><br>
+
+```
+```
+<br>
+
+
+Challenge 14
 <br><br>
 <br><br>
 

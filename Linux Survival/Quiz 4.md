@@ -1,10 +1,9 @@
 ## Linux Survival 
 ### Quiz 4
+Which:
 <br><br>
-
 | Question | Answer |
 | ---- | ---- | 
-Which:
 1) command shows free disk space?	
 2) command shows process status?	
 3) option to the above command shows all system processes?	

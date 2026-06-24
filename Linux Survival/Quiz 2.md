@@ -1,5 +1,5 @@
 ## Linux Survival
-## Quiz 2
+### Quiz 2
 Which command is used to:
 <br><br>
 | Question | Answer |

@@ -10,7 +10,7 @@ Which command is used to:
 | 4) Locate files?	||
 | 5) Remove print jobs?	| |
 | 6) Show user information?	| |
- 	
-1) Which symbol means home directory?	
-2) Which symbol sends output to a new file?	
-3) Which symbol means current directory?
+| | | 	
+| 1) Which symbol means home directory?	| |
+| 2) Which symbol sends output to a new file? | |	
+|3) Which symbol means current directory? | |

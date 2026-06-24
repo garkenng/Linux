@@ -76,18 +76,25 @@ Copy the file named take-the-command-challenge to the directory tmp/files
 <br><br>
 
 ```
+cp take-the-command-challenge tmp/files
 ```
 <br>
 
 Challenge 9
 <br><br>
+Move the file named take-the-command-challenge to the directory tmp/files
 <br><br>
 
 ```
+mv take-the-command-challenge tmp/files 
 ```
 <br>
+
 Challenge 10
 <br><br>
+A symbolic link is a type of file that is a reference to another file.
+<br><br>
+Create a symbolic link named take-the-command-challenge that points to the file tmp/files/take-the-command-challenge.
 <br><br>
 
 ```

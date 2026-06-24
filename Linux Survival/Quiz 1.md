@@ -1,5 +1,4 @@
 ## Linux Survival
-<br>
 Quiz 1
 <br><br>
 Which command is used to:

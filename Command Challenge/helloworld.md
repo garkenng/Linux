@@ -21,9 +21,24 @@ pwd
 <br>
 
 Challenge 3
+<br><br>
 List names of all the files in the current directory, one file per line.
-Challenge 4
+<br><br>
 
+```
+ls
+```
+<br>
+
+Challenge 4
+<br><br>
+There is a file named access.log in the current directory. Print the contents.
+<br><br>
 Challenge 5
+<br><br>
+
+```
+```
+<br>
 
 Challenge 6
